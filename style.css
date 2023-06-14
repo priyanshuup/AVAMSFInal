@@ -1086,7 +1086,7 @@ nav{
                 width: 7vw;
                 right: 11vw;
                 display: flex;
-                top: -24vh;
+                /* top: -vh; */
                 /* left: 21vw; */
                 align-items: flex-end;
                 justify-content: space-between;
@@ -1651,3 +1651,27 @@ gap: 5vh;
 }
               
                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
